@@ -1,0 +1,5 @@
+﻿  用数组实现栈.c
+  队列.c
+D:\数据结构\Zhan and DuiLie\队列.c(113,23): warning C4047: “!=”:“Node *”与“Node **”的间接级别不同
+  正在生成代码...
+  Zhan and DuiLie.vcxproj -> D:\数据结构\Zhan and DuiLie\Debug\Zhan and DuiLie.exe
